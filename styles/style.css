@@ -1,0 +1,29 @@
+html{font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+    background-color: lightpink;}
+
+h1 {font-size: 60px;
+        text-align: center;
+        margin: 0;
+        padding: 20px 0;    
+        color: rgb(9, 134, 40);
+        text-shadow: 3px 3px 2px rgb(2, 46, 4);}
+
+p {font-size: 20px;    
+    line-height: 1.5;
+    letter-spacing: 1px;
+    padding: 0 0 0 0;}
+      
+li {font-size: 20px;    
+    line-height: 1;
+    letter-spacing: 1px;
+    padding: 5px 0 0 0;}
+
+ body {width: 600px;
+        margin: 0 auto;
+        background-color: rgb(240, 239, 230);
+        padding: 0 20px 20px 20px;
+        border: 5px solid black;}
+img {display: block;
+    margin: 0 auto;
+    width: 400px;}
